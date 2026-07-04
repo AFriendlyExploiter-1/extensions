@@ -1,0 +1,17 @@
+Open source, 100% safe
+Spoofed Robux values are VISUAL ONLY, this extension will not change your real robux in any way
+Source code is in the main.js file
+
+Setup:
+► Download the Robux Spoofer folder into a location you will remember
+► Go to your browser's extensions page (such as chrome://extensions)
+► Toggle Developer Mode on if you haven't already
+► Click "Load Unpacked"
+► Locate the Robux Spoofer folder, click it once, then click "Open"
+► If you have done it correctly, you should see the extension in your browser.
+► Go to any www.roblox.com page and your robux should appear as either 1M+ or 1,038,937
+
+If you want to display a different amount of robux:
+► Open main.js
+► Find the variables spoofAmount or spoofStringLong
+► Change these to what you want displayed, I recommend you keep these in string format (use "" around the values)
